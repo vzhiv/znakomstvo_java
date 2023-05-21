@@ -1,0 +1,10 @@
+1,Asus,ZenBook,16,512,Windows,черный
+2,Lenovo,IdeaPad,32,256,Windows,красный
+3,HP,EliteBook,64,128,Windows,синий
+4,Acer,Aspire,32,512,Windows,белый
+5,Dell,Inspiron,128,1024,Windows,черный
+6,Apple,MacBook,16,512,macOs,белый
+7,MSI,Modern,32,512,Windows,черный
+8,Apple,MacBook Air,64,256,macOs,белый
+9,Razer,Book,64,1024,Windows,синий
+10,Apple,MacBook,16,128,macOs,серый
